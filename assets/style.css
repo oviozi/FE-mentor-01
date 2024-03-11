@@ -36,21 +36,22 @@ img {
 header {
     text-align: center;
     font-family: Outfit, Helvetica, sans-serif;
-    font-weight: 700;
 }
 
 section {
     color: #7D889E;
     text-align: center;
     font-family: Outfit, Helvetica, sans-serif;
-
-    font-weight: 400;
 }
 
+h4 {
+    font-weight: normal;
+}
 
 @media screen and (max-width: 599px) {
     h1 {
         font-size: 1.4rem;
+        font-weight: normal;
     }
 
     section {
